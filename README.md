@@ -2,7 +2,7 @@
 
 This project is a small demonstration of many networking concepts put in practice, such as Edge Computing and MQTT.
 
-# Acknowledgment
+# Acknowledgement
 We would like to thank [rsaikali](https://github.com/rsaikali/openweather-mqtt) for providing the Python script that allows us to get weather information of a city.
 
 ## Dependencies
